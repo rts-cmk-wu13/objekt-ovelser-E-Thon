@@ -37,3 +37,4 @@ document.addEventListener("DOMContentLoaded", function () {
   console.log("Available all day:", cat2.foods.allDay)
 
 }); // ends DOMContentLoaded
+
