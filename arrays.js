@@ -30,11 +30,11 @@ document.addEventListener("DOMContentLoaded", function () {
       allDay: "Dry cats food"
     }
   }
-
+  
   cat2.names.forEach((nameAgain) => console.log(`Names:`, nameAgain));
   console.log("Breakfast:", cat2.foods.breakfast)
   console.log("Dinner:", cat2.foods.dinner)
   console.log("Available all day:", cat2.foods.allDay)
 
-
 }); // ends DOMContentLoaded
+
