@@ -20,9 +20,3 @@
         studentDiv.append(studentHeadline, studentInfo);
         studentListDiv.appendChild(studentDiv);        
     });
-
-
-
-    
-  
-    // --- opgave ekstra2 ---
